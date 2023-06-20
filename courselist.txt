@@ -1,0 +1,4 @@
+https://www.datacamp.com/courses/intro-to-python-for-data-science
+https://www.datacamp.com/courses/introduction-to-sql
+https://www.datacamp.com/courses/introduction-to-chatgpt
+https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python

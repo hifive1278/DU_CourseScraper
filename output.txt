@@ -1,0 +1,402 @@
+
+COURSE NAME: Introduction to Python
+DESCRIPTION: Master the basics of data analysis with Python in just four hours. This online course will introduce the Python interface and explore popular packages.
+
+
+SECTION TITLE: Python Basics
+Hello Python!
+When to use Python?
+The Python Interface
+Any comments?
+Python as a calculator
+Variables and Types
+Variable Assignment
+Calculations with variables
+Other variable types
+Guess the type
+Operations with other types
+Type conversion
+Can Python handle everything?
+
+SECTION TITLE: Python Lists
+Python Lists
+Create a list
+Create list with different types
+Select the valid list
+List of lists
+Subsetting Lists
+Subset and conquer
+Subset and calculate
+Slicing and dicing
+Slicing and dicing (2)
+Subsetting lists of lists
+Manipulating Lists
+Replace list elements
+Extend a list
+Delete list elements
+Inner workings of lists
+
+SECTION TITLE: Functions and Packages
+Functions
+Familiar functions
+Help!
+Multiple arguments
+Methods
+String Methods
+List Methods
+List Methods (2)
+Packages
+Import package
+Selective import
+Different ways of importing
+
+SECTION TITLE: NumPy
+NumPy
+Your First NumPy Array
+Baseball players' height
+Baseball player's BMI
+Lightweight baseball players
+NumPy Side Effects
+Subsetting NumPy Arrays
+2D NumPy Arrays
+Your First 2D NumPy Array
+Baseball data in 2D form
+Subsetting 2D NumPy Arrays
+2D Arithmetic
+NumPy: Basic Statistics
+Average versus median
+Explore the baseball data
+Blend it all together
+-----------------------------------------------------
+
+COURSE NAME: Introduction to SQL
+DESCRIPTION: Learn how to create and query relational databases using SQL in just two hours.
+
+
+SECTION TITLE: Relational Databases
+Databases
+What are the advantages of databases?
+Data organization
+Tables
+Picking a unique ID
+Setting the table in style
+Our very own table
+Data
+At your service
+Finding data types
+Choice of type
+
+SECTION TITLE: Querying
+Introducing queries
+SQL strengths
+Developing SQL style
+Querying the books table
+Writing queries
+Making queries DISTINCT
+Aliasing
+VIEWing your query
+SQL flavors
+Comparing flavors
+Limiting results
+Translating between flavors
+Congratulations!
+-----------------------------------------------------
+
+COURSE NAME: Introduction to ChatGPT
+DESCRIPTION: Learn how to use ChatGPT. Discover best practices for writing prompts and explore common business use cases for the powerful AI tool.
+
+
+SECTION TITLE: Interacting with ChatGPT
+What is ChatGPT?
+What can ChatGPT do?
+Breaking down an interaction
+ChatGPT and business
+Limitations of ChatGPT
+The creation of ChatGPT
+Knowing your limits
+Breaking down a use case
+Writing effective prompts
+Prompt best practices
+Engineering a prompt
+
+SECTION TITLE: Adopting ChatGPT
+Enabling people to use ChatGPT
+Augmenting workflows
+Matching roles with common use cases
+Generating marketing copy
+Identifying use cases for ChatGPT
+Establishing the framework
+Validating a use case
+Ownership and privacy
+OpenAI's Terms of Use
+Classifying concerns
+Applying legal and ethical considerations
+Advancements in generative AI
+Scaling the AI revolution!
+More specialized models
+The "generation" generation
+Congratulations!
+-----------------------------------------------------
+
+COURSE NAME: Exploratory Data Analysis in Python
+DESCRIPTION: Learn how to explore, visualize, and extract insights from data using exploratory data analysis (EDA) in Python.
+
+
+SECTION TITLE: Getting to Know a Dataset
+Initial exploration
+Functions for initial exploration
+Counting categorical values
+Global unemployment in 2021
+Data validation
+Detecting data types
+Validating continents
+Validating range
+Data summarization
+Summaries with .groupby() and .agg()
+Named aggregations
+Visualizing categorical summaries
+
+SECTION TITLE: Data Cleaning and Imputation
+Addressing missing data
+Dealing with missing data
+Strategies for remaining missing data
+Imputing missing plane prices
+Converting and analyzing categorical data
+Finding the number of unique values
+Flight duration categories
+Adding duration categories
+Working with numeric data
+Flight duration
+Adding descriptive statistics
+Handling outliers
+What to do with outliers
+Identifying outliers
+Removing outliers
+
+SECTION TITLE: Relationships in Data
+Patterns over time
+Importing DateTime data
+Updating data type to DateTime
+Visualizing relationships over time
+Correlation
+Interpreting a heatmap
+Visualizing variable relationships
+Visualizing multiple variable relationships
+Factor relationships and distributions
+Categorial data in scatter plots
+Exploring with KDE plots
+
+SECTION TITLE: Turning Exploratory Analysis into Action
+Considerations for categorical data
+Checking for class imbalance
+Cross-tabulation
+Generating new features
+Extracting features for correlation
+Calculating salary percentiles
+Categorizing salaries
+Generating hypotheses
+Comparing salaries
+Choosing a hypothesis
+Congratulations
+-----------------------------------------------------
+
+COURSE NAME: Introduction to Python
+DESCRIPTION: Master the basics of data analysis with Python in just four hours. This online course will introduce the Python interface and explore popular packages.
+
+
+SECTION TITLE: Python Basics
+Hello Python!
+When to use Python?
+The Python Interface
+Any comments?
+Python as a calculator
+Variables and Types
+Variable Assignment
+Calculations with variables
+Other variable types
+Guess the type
+Operations with other types
+Type conversion
+Can Python handle everything?
+
+SECTION TITLE: Python Lists
+Python Lists
+Create a list
+Create list with different types
+Select the valid list
+List of lists
+Subsetting Lists
+Subset and conquer
+Subset and calculate
+Slicing and dicing
+Slicing and dicing (2)
+Subsetting lists of lists
+Manipulating Lists
+Replace list elements
+Extend a list
+Delete list elements
+Inner workings of lists
+
+SECTION TITLE: Functions and Packages
+Functions
+Familiar functions
+Help!
+Multiple arguments
+Methods
+String Methods
+List Methods
+List Methods (2)
+Packages
+Import package
+Selective import
+Different ways of importing
+
+SECTION TITLE: NumPy
+NumPy
+Your First NumPy Array
+Baseball players' height
+Baseball player's BMI
+Lightweight baseball players
+NumPy Side Effects
+Subsetting NumPy Arrays
+2D NumPy Arrays
+Your First 2D NumPy Array
+Baseball data in 2D form
+Subsetting 2D NumPy Arrays
+2D Arithmetic
+NumPy: Basic Statistics
+Average versus median
+Explore the baseball data
+Blend it all together
+-----------------------------------------------------
+
+COURSE NAME: Introduction to SQL
+DESCRIPTION: Learn how to create and query relational databases using SQL in just two hours.
+
+
+SECTION TITLE: Relational Databases
+Databases
+What are the advantages of databases?
+Data organization
+Tables
+Picking a unique ID
+Setting the table in style
+Our very own table
+Data
+At your service
+Finding data types
+Choice of type
+
+SECTION TITLE: Querying
+Introducing queries
+SQL strengths
+Developing SQL style
+Querying the books table
+Writing queries
+Making queries DISTINCT
+Aliasing
+VIEWing your query
+SQL flavors
+Comparing flavors
+Limiting results
+Translating between flavors
+Congratulations!
+-----------------------------------------------------
+
+COURSE NAME: Introduction to ChatGPT
+DESCRIPTION: Learn how to use ChatGPT. Discover best practices for writing prompts and explore common business use cases for the powerful AI tool.
+
+
+SECTION TITLE: Interacting with ChatGPT
+What is ChatGPT?
+What can ChatGPT do?
+Breaking down an interaction
+ChatGPT and business
+Limitations of ChatGPT
+The creation of ChatGPT
+Knowing your limits
+Breaking down a use case
+Writing effective prompts
+Prompt best practices
+Engineering a prompt
+
+SECTION TITLE: Adopting ChatGPT
+Enabling people to use ChatGPT
+Augmenting workflows
+Matching roles with common use cases
+Generating marketing copy
+Identifying use cases for ChatGPT
+Establishing the framework
+Validating a use case
+Ownership and privacy
+OpenAI's Terms of Use
+Classifying concerns
+Applying legal and ethical considerations
+Advancements in generative AI
+Scaling the AI revolution!
+More specialized models
+The "generation" generation
+Congratulations!
+-----------------------------------------------------
+
+COURSE NAME: Exploratory Data Analysis in Python
+DESCRIPTION: Learn how to explore, visualize, and extract insights from data using exploratory data analysis (EDA) in Python.
+
+
+SECTION TITLE: Getting to Know a Dataset
+Initial exploration
+Functions for initial exploration
+Counting categorical values
+Global unemployment in 2021
+Data validation
+Detecting data types
+Validating continents
+Validating range
+Data summarization
+Summaries with .groupby() and .agg()
+Named aggregations
+Visualizing categorical summaries
+
+SECTION TITLE: Data Cleaning and Imputation
+Addressing missing data
+Dealing with missing data
+Strategies for remaining missing data
+Imputing missing plane prices
+Converting and analyzing categorical data
+Finding the number of unique values
+Flight duration categories
+Adding duration categories
+Working with numeric data
+Flight duration
+Adding descriptive statistics
+Handling outliers
+What to do with outliers
+Identifying outliers
+Removing outliers
+
+SECTION TITLE: Relationships in Data
+Patterns over time
+Importing DateTime data
+Updating data type to DateTime
+Visualizing relationships over time
+Correlation
+Interpreting a heatmap
+Visualizing variable relationships
+Visualizing multiple variable relationships
+Factor relationships and distributions
+Categorial data in scatter plots
+Exploring with KDE plots
+
+SECTION TITLE: Turning Exploratory Analysis into Action
+Considerations for categorical data
+Checking for class imbalance
+Cross-tabulation
+Generating new features
+Extracting features for correlation
+Calculating salary percentiles
+Categorizing salaries
+Generating hypotheses
+Comparing salaries
+Choosing a hypothesis
+Congratulations
+-----------------------------------------------------
